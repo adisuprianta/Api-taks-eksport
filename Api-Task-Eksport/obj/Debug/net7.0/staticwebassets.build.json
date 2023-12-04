@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1leECtcWtbPnpSVNgVMh9nifFQ2eD7eA2O6HYMUtnx0=",
+  "Source": "Api-Task-Eksport",
+  "BasePath": "_content/Api-Task-Eksport",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
